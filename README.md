@@ -9,5 +9,7 @@ A React based project that displays pertinent and updated information pertaining
 - Axios
 
 API Source: https://github.com/mathdroid/covid-19-api
+
 Hosted on Netlify and can be found <a href="https://xenodochial-bassi-d0c654.netlify.com/" target="_blank">here</a>!
+
 ![](img/covid-snippet.PNG)
