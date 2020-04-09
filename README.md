@@ -10,4 +10,4 @@ A React based project that displays pertinent and updated information pertaining
 
 API Source: https://github.com/mathdroid/covid-19-api
 
-![](img/snippet.PNG)
+![](img/covid-snippet.PNG)
